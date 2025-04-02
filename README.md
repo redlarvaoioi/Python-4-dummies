@@ -30,8 +30,10 @@ Welcome to the Comprehensive Guide to Python. This guide is designed to help you
 Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used for web development, data analysis, artificial intelligence, scientific computing, and more.
 
 ## Setting Up Your Environment
+YOU CAN ALSO USE AN ONLINE COMPILER, SUCH AS [online-python.com](online-python.com)
 
 To get started with Python, you'll need to set up your development environment. Follow these steps:
+
 
 1. **Download and Install Python:**
    - Visit the [official Python website](https://www.python.org/downloads/) and download the latest version of Python.
